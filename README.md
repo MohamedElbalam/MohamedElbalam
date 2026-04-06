@@ -1,10 +1,10 @@
-# 🎯 Mohamed Elbalam - Repository Directory
+#  Mohamed Elbalam - Repository Directory
 
 Welcome to my GitHub repositories! Below is a comprehensive categorized list of all my projects.
 
 ---
 
-## 📚 Academic & Learning (7 repos)
+## Academic & Learning (7 repos)
 
 Hunter CSCI 235 Fall 2023 Projects (C++)
 
@@ -42,7 +42,7 @@ Security research, penetration testing, and capture the flag challenges
 
 ---
 
-## 🚀 Personal Projects (5 repos)
+## Personal Projects (5 repos)
 
 Production-ready applications and utilities
 
@@ -54,7 +54,7 @@ Production-ready applications and utilities
 
 ---
 
-## 📖 Learning Resources (1 repo)
+## Learning Resources (1 repo)
 
 Course materials and learning references
 
@@ -62,7 +62,7 @@ Course materials and learning references
 
 ---
 
-## 🔧 Other Repositories (2 repos)
+## Other Repositories (2 repos)
 
 - [**MohamedElbalam**](https://github.com/MohamedElbalam/MohamedElbalam) - GitHub profile configuration
 - [**code50/47362689**](https://github.com/code50/47362689) - Code50 assignment repository (C)
@@ -78,20 +78,20 @@ Course materials and learning references
 
 ---
 
-## 🎯 Quick Navigation by Interest
+## Quick Navigation by Interest
 
 ### 🔐 Interested in Cybersecurity?
 Start with: [SOC-Log-Analysis-Detection-Lab](https://github.com/MohamedElbalam/SOC-Log-Analysis-Detection-Lab) → [CTF-challanges](https://github.com/MohamedElbalam/CTF-challanges) → [cybersecurity-notes](https://github.com/MohamedElbalam/cybersecurity-notes)
 
-### 💪 Want to See Coding Skills?
+### Want to See Coding Skills?
 Start with: [Code_Problems](https://github.com/MohamedElbalam/Code_Problems) → [cs335-practice](https://github.com/MohamedElbalam/cs335-practice) → [restaurant-inventory-system](https://github.com/MohamedElbalam/restaurant-inventory-system)
 
-### 📚 Learning New Concepts?
+###  Learning New Concepts?
 Start with: [Linux101-Resources](https://github.com/MohamedElbalam/Linux101-Resources) → [cybersecurity-notes](https://github.com/MohamedElbalam/cybersecurity-notes) → [codePath_cybersecurity](https://github.com/MohamedElbalam/codePath_cybersecurity)
 
 ---
 
-## 💬 Get in Touch
+## Get in Touch
 
 Feel free to explore my repositories, fork them, or reach out for collaboration!
 
